@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;guess_the_number_Exercise3&apos;" deleteContents="false" description="Delete resource &apos;guess_the_number_Exercise3&apos;" element1="/guess_the_number_Exercise3" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1672647219151"/>&#x0A;<refactoring comment="Delete resource &apos;practice_set_modfire&apos;" deleteContents="false" description="Delete resource &apos;practice_set_modfire&apos;" element1="/practice_set_modfire" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1672734308582"/>
+</session>

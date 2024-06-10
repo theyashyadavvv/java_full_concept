@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Associativity_of_operators&apos;" deleteContents="false" description="Delete resource &apos;Associativity_of_operators&apos;" element1="/Associativity_of_operators" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1671195439324"/>
+</session>

@@ -1,0 +1,1 @@
+rootProject.name = "full_course_java"

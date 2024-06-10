@@ -1,0 +1,20 @@
+package this_super_kerywords__in_java;
+class ekclass{
+	int a;
+	public int get_a() {
+		return a;
+	}
+	ekclass(int v){
+	a=v;
+		
+}
+	}
+	
+
+public class this_super {
+	public static void main(String args[]) {
+		ekclass e= new ekclass(67);
+		System.out.println(e.get_a());
+	}
+
+}
